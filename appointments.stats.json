@@ -1,0 +1,14 @@
+{
+  "total": 170,
+  "kept": 48,
+  "sortieCount": 26,
+  "entreeCount": 22,
+  "odmCount": 0,
+  "skippedRed": 90,
+  "skippedTrajet": 25,
+  "sourceCounts": {
+    "snexi": 25,
+    "constatimmo": 23,
+    "unknown": 0
+  }
+}
